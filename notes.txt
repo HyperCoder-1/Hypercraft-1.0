@@ -2,23 +2,22 @@ Add (w/ GUI's, stats, textures, etc.)
     Items/Blocks (w/ interactions, textures, sounds, etc.)
         Netherite
             Armor
-            Chestplate
-            Leggings
-            Boots
-            Helmet
-            Horse Armor
-        Weapons
-            Sword
-        Tools
-            Axe
-            Pickaxe
-            Shovel
-            Hoe
-        Misc
-            Block
-            Item
-            Upgrade Template
-        Elytra
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                Item
+                Upgrade Template
         Diamond
             Armor
                 Chestplate
@@ -35,6 +34,97 @@ Add (w/ GUI's, stats, textures, etc.)
                 Hoe
             Misc
                 Block
-                Item    
-    Sounds
-        Iron door
+                Item   
+        Iron
+            Armor
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                Item
+                Door  
+        Leather
+            Armor
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                Item
+        Gold
+            Armor
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                Item
+        Copper
+            Armor
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                    Bulb
+                    Block
+                    Cut
+                Item   
+        Elytra
+    Mechanics
+        Crafting
+        Armor
+        Health
+        Hunger
+        Block breaking
+        Day/night
+    Entities
+        Mobs
+            Creeper
+            Horse
+            Wolf
+            Wither
+            Ender Dragon
+            Endermen
+            Golems
+                Iron
+                Copper
+        NPCs
+        Other
